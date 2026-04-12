@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Prep/Session 2/Session 2 Notes.md",
+                "file": "The Lands of Aetria/Smaller Settlements/Redwater/testtest.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 2 Notes"
+              "title": "testtest"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM Prep/Session 2/Session 2 Notes.md",
+                "file": "The Lands of Aetria/Smaller Settlements/Redwater/testtest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 2 Notes"
+              "title": "Backlinks for testtest"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM Prep/Session 2/Session 2 Notes.md",
+                "file": "The Lands of Aetria/Smaller Settlements/Redwater/testtest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Session 2 Notes"
+              "title": "Outgoing links from testtest"
             }
           },
           {
@@ -156,21 +156,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM Prep/Session 2/Session 2 Notes.md",
+                "file": "The Lands of Aetria/Smaller Settlements/Redwater/testtest.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Session 2 Notes"
+              "title": "Outline of testtest"
+            }
+          },
+          {
+            "id": "df6f62b2266f12e9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,17 +190,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f8a18ec5bf09fd5e",
+  "active": "e49b00450e9254bf",
   "lastOpenFiles": [
+    "The Lands of Aetria/Smaller Settlements/Redwater/Redwater.md",
+    "The Lands of Aetria/Smaller Settlements/Redwater/testtest.md",
+    "Untitled 1.base",
+    "Untitled.base",
+    "DM Prep/Session 2/Session 2 Notes.md",
     "DM Prep/Session 2/Prep.md",
     "cave1.json",
     "The Lands of Aetria/Other Characters/Rohan, the Pirate King.md",
-    "DM Prep/Session 2/Session 2 Notes.md",
     "The Lands of Aetria/PC's/Four, the Blood Hunter.md",
-    "The Lands of Aetria/Smaller Settlements/Redwater/Redwater.md",
     "The Lands of Aetria/Cities/Wolf's Fang/NPC's/Andrew, the Portsman.md",
     "The Lands of Aetria/Cities/Wolf's Fang/NPC's/Eldrin, the Wizard.md",
     "The Lands of Aetria/Other Characters/Leo, Last of the Ironview Miners.md",
@@ -208,9 +222,7 @@
     "The Lands of Aetria",
     "Files/Pasted image 20260411211932.png",
     "images/Pasted image 20260411211842.png",
-    "images",
     "Pasted image 20260411211835.png",
-    "Smaller Settlements/Other",
     "The Lands of Aetria/Cities/Treefell/NPC's/Moorwin.md",
     "The Lands of Aetria/Cities/Ironhaven/Ironhaven.md",
     "The Lands of Aetria/Cities/Treefell/Treefell.md",
