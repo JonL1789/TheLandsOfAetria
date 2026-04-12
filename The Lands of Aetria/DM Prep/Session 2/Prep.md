@@ -13,9 +13,14 @@ Once they make it, they need to find [[Rohan, the Pirate King]] It is late at ni
 There are three points of interest; stolen convoy crates, living quarters, and Rohan's domain. 
 Huge encounter possibly. 
 Civilians may help if they choose to save them 
+they kill rohan (probably)
+ship back to wolf's fang
+wow thanky ou guys you have aura heres so coin
+they get one bajillion coin (85g each)
+
 
 The pirates are enlisted by Enibras. They were given an ultimatum; find a specific item and pay ransom, or face death.
 
 
 
-FIGHTS:![[cave1.json]]
+FIGHTS:![[cave1.json]]![[cave2.json]]![[piraterohan.json]]

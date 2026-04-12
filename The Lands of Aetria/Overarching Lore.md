@@ -1,4 +1,4 @@
-![[Pasted image 20260411211932.png]]
+![[Pasted image 20260411211932.png|697]]
 
 “Long ago, he was a man. A warrior. Blade in hand, will unbreakable.”
 

@@ -1,0 +1,88 @@
+{
+	"fileType": "encounter",
+	"siteVersion": "2.26.1",
+	"items": [
+		{
+			"h": "pirate%20captain_xmm",
+			"c": 1,
+			"cId": "c6890b05-6a5e-40f6-82f2-f8d488a5d122"
+		},
+		{
+			"h": "pirate%20bosun_gos",
+			"c": 4,
+			"cId": "e46d6864-8566-4ba1-b01d-e25af9480ea4"
+		},
+		{
+			"h": "soldier_ggr",
+			"c": 4
+		}
+	],
+	"sources": [
+		"XMM",
+		"GoS",
+		"GGR"
+	],
+	"saveId": "a1e1c88b-e654-4caa-be46-1aca2d5ab3bc",
+	"playersSimple": [
+		{
+			"count": 3,
+			"level": 5
+		},
+		{
+			"count": 1,
+			"level": 5
+		}
+	],
+	"isAdvanced": false,
+	"colsExtraAdvanced": [
+		{
+			"name": ""
+		},
+		{
+			"name": ""
+		}
+	],
+	"playersAdvanced": [
+		{
+			"name": "3",
+			"level": 5,
+			"extras": [
+				{
+					"value": ""
+				},
+				{
+					"value": ""
+				}
+			],
+			"extraCols": [
+				{
+					"name": ""
+				},
+				{
+					"name": ""
+				}
+			]
+		},
+		{
+			"name": "",
+			"level": 5,
+			"extras": [
+				{
+					"value": ""
+				},
+				{
+					"value": ""
+				}
+			],
+			"extraCols": [
+				{
+					"name": ""
+				},
+				{
+					"name": ""
+				}
+			]
+		}
+	],
+	"customShapeGroups": []
+}
