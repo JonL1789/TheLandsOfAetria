@@ -19,8 +19,7 @@ ship back to wolf's fang
 wow thanky ou guys you have aura heres so coin
 they get one bajillion coin (85g each)
 
-
-The pirates are enlisted by Enibras. They were given an ultimatum; find a specific item and pay ransom, or face death.
+![[Pasted image 20260412000733.png]]
 
 inscriptions on the cave
 ![[Pasted image 20260411232323.png]]
