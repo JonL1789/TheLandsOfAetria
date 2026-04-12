@@ -1,0 +1,1 @@
+A scientist hailing from [[Treefell]]. [[Eldrin, the Wizard|Eldrin|]] told the party to find her to find out more about the beacons. 

@@ -1,0 +1,1 @@
+Frozen over yet not lost, Winterfell stands within Aetria as a pillar of discovery for the land’s strange arcana altered by wicked shadow.

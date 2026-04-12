@@ -1,0 +1,1 @@
+Morphed and corrupted beyond human comprehension, [[Enibras Tenebrum, the Beholder of Shadow|Enibras Tenebrum|]] stands against Aetria as a figure of insurmountable vengeance.

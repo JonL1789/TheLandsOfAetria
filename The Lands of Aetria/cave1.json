@@ -1,0 +1,77 @@
+{
+	"fileType": "encounter",
+	"siteVersion": "2.26.1",
+	"items": [
+		{
+			"h": "bandit%20captain_xmm",
+			"c": 2
+		},
+		{
+			"h": "husk%20zombie_egw",
+			"c": 1
+		}
+	],
+	"sources": [
+		"XMM",
+		"EGW"
+	],
+	"saveId": "a1e1c88b-e654-4caa-be46-1aca2d5ab3bc",
+	"playersSimple": [
+		{
+			"count": 3,
+			"level": 5
+		}
+	],
+	"isAdvanced": false,
+	"colsExtraAdvanced": [
+		{
+			"name": ""
+		},
+		{
+			"name": ""
+		}
+	],
+	"playersAdvanced": [
+		{
+			"name": "3",
+			"level": 5,
+			"extras": [
+				{
+					"value": ""
+				},
+				{
+					"value": ""
+				}
+			],
+			"extraCols": [
+				{
+					"name": ""
+				},
+				{
+					"name": ""
+				}
+			]
+		},
+		{
+			"name": "",
+			"level": 5,
+			"extras": [
+				{
+					"value": ""
+				},
+				{
+					"value": ""
+				}
+			],
+			"extraCols": [
+				{
+					"name": ""
+				},
+				{
+					"name": ""
+				}
+			]
+		}
+	],
+	"customShapeGroups": []
+}
