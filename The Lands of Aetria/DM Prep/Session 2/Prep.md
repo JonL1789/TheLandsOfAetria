@@ -3,6 +3,7 @@ Arrive at ironview
 Talk to [[Leo, Last of the Ironview Miners|Leo|]], ask him for steel 
 He has 20lbs, but there’s the other 20lbs within the dungeon
 (OPTIONAL) Go into dungeon and fight that shit, get more steel 
+- end of cave fight: four ghoul things come out, and after two die, they come back. reveal the shadow heart at the end of the room
 They come back, they build the boat.
 They get more money and a more resilient boat with the extra steel 
 They take a ride over to Redwater 
@@ -21,6 +22,6 @@ they get one bajillion coin (85g each)
 
 The pirates are enlisted by Enibras. They were given an ultimatum; find a specific item and pay ransom, or face death.
 
-
-
+inscriptions on the cave
+![[Pasted image 20260411232323.png]]
 FIGHTS:![[cave1.json]]![[cave2.json]]![[piraterohan.json]]

@@ -1,4 +1,4 @@
-Leader of [[Redwater]]. Oversees all operations, and handles communications with a messenger from Fort Mirth. 
+Orc Leader of [[Redwater]]. Oversees all operations, and handles communications with a messenger from Fort Mirth. 
 
 **If the party sneaks into his quarters,**
 *Rohan finds himself scrawling away at a piece of parchment, a possible letter in his hands.*
