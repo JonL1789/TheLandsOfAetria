@@ -26,6 +26,25 @@ EDEN HELPS LEO WITH BRINGING STEEL
 they go in dungeon 
 nat 20 investigation, beating veins
 corpses come to life after four steps on veins 
+fight starts
+they have a blast
+they keep trying to contain the corrupted blood
+they find note after hurrendous railroading 
+boom session end
+
+post notes:
+i think this session went way better than last time
+i enjoy having the main ideas of the plot very well defined
+but having random stuff (like half the session in the cafeteria) was fun
+next session i presume will be fighting rohan and then the end of wolfs fang
+then we will move on to mirefield
+i gotta think of a few core npcs hanging out there
+and what the town does at its core
+when i hear mirefield, i instantly think of a crop town
+fields and gardening and such
+especially since its closer to treefell
+
+
 
 
 initiative:
