@@ -1,4 +1,4 @@
-DND PREP: possible wolf’s fang dialogue wrap up riding a Carriage to Ironview 
+![[Pasted image 20260426174515.png]]DND PREP: possible wolf’s fang dialogue wrap up riding a Carriage to Ironview 
 Arrive at ironview 
 Talk to [[Leo, Last of the Ironview Miners|Leo|]], ask him for steel 
 He has 20lbs, but there’s the other 20lbs within the dungeon
