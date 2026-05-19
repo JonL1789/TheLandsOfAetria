@@ -3,7 +3,7 @@ Orc Leader of [[Redwater]]. Oversees all operations, and handles communications 
 **If the party sneaks into his quarters,**
 *Rohan finds himself scrawling away at a piece of parchment, a possible letter in his hands.*
 *Rohan peeks his heads out from his writing, and sees the party.*
-"Wh- What are you scallywags doin' here?"
+"Wh- What are you blokes doin' here?"
 
 "Leave my quarters before I 'ave your heads, scoundrel!"
 
