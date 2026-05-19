@@ -4,7 +4,8 @@ Talk to [[Leo, Last of the Ironview Miners|Leo|]], ask him for steel
 He has 20lbs, but there’s the other 20lbs within the dungeon
 (OPTIONAL) Go into dungeon and fight that shit, get more steel 
 - end of cave fight: four ghoul things come out, and after two die, they come back. reveal the shadow heart at the end of the room
-They come back, they build the boat.
+They come back,
+they build the boat.
 They get more money and a more resilient boat with the extra steel 
 They take a ride over to Redwater 
 Either:
