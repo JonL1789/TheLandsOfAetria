@@ -1,1 +1,1 @@
-A scientist hailing from [[Treefell]]. [[Eldrin, the Wizard|Eldrin|]] told the party to find her to find out more about the beacons. 
+A scientist hailing from [[Treefell]]. [[Eldrin, the Wizard|Eldrin|]] told the party to find her to find out more about the beacons. She resides within the Apothecary, where she is extremely against Treefell's current management. A group named *The Cult of Vex* currently holds power over the entire city. 
