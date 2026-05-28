@@ -32,5 +32,9 @@ After which, visions of a shadow corrupt the mind, and trauma comes back to haun
 
 
 
+yeah wow this session went completely different
+
+
+
 ![[Pasted image 20260519183322.png]]
 ![[Pasted image 20260519183322 1.png]]
