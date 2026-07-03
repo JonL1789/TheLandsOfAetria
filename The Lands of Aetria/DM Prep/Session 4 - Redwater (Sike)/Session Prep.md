@@ -26,4 +26,4 @@ Here is what I had in mind.
 
 3b) With action, go and fight the pirates near the campfire. 
 3c) Investigate nearby convoy crates. 
-4) 
+
