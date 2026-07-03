@@ -4,34 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "c7125b28c432c1aa",
+        "id": "dd800f84b67a846f",
         "type": "tabs",
         "children": [
           {
-            "id": "4fd507ba4c4a0f25",
+            "id": "7c6fe15af23600ad",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "The Lands of Aetria/DM Prep/Session 5 - Lanlow Or Treefell Idk/Untitled.md",
+                "bFile": "The Lands of Aetria/DM Prep/Session 5 - Lanlow Or Treefell Idk/Untitled.md",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Untitled  (Index)"
+            }
+          },
+          {
+            "id": "25a5c4e7af326bdf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Prep/Session 5 - Lanlow Or Treefell Idk/Session Prep.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session Prep"
-            }
-          },
-          {
-            "id": "146fbd42ca5ee882",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "conflict-files-obsidian-git"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,14 +210,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4fd507ba4c4a0f25",
+  "active": "25a5c4e7af326bdf",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "DM Prep/Session 5 - Redwater, For Real This Time/Session Notes.md",
+    "DM Prep/Session 5 - Redwater, For Real This Time/Session Prep.md",
+    "DM Prep/Session 5 - Lanlow Or Treefell Idk/Session Prep.md",
+    "DM Prep/Session 6 - Lanlow Or Treefell Idk/Untitled.md",
+    "DM Prep/Session 6 - Lanlow Or Treefell Idk/Session Prep.md",
+    "DM Prep/Session 6 - Lanlow Or Treefell Idk",
     "Pasted image 20260703090003.png",
     "Pasted image 20260703085959.png",
     "DM Prep/Session 5 - Lanlow Or Treefell Idk/Untitled.md",
-    "DM Prep/Session 5 - Lanlow Or Treefell Idk/Session Prep.md",
-    "DM Prep/Session 5 - Redwater, For Real This Time/Session Prep.md",
-    "DM Prep/Session 5 - Redwater, For Real This Time/Session Notes.md",
     "The Lands of Aetria/Cities/Wintervale/Brohm, The Wicked Researcher.md",
     "The Lands of Aetria/Cities/Treefell/NPC's/Cherri.md",
     "DM Prep/Session 5 - Redwater, For Real This Time",
@@ -235,8 +245,6 @@
     "The Lands of Aetria/Cities/Wolf's Fang/NPC's/Eldrin, the Wizard.md",
     "The Lands of Aetria/Cities/Wolf's Fang/NPC's/Garrick, The Orc.md",
     "The Lands of Aetria/Cities/Wolf's Fang/NPC's/Knight Fouler.md",
-    "The Lands of Aetria/Cities/Wolf's Fang/NPC's/Tobias, The Mailhouse Clerk.md",
-    "The Lands of Aetria/Smaller Settlements/Redwater/Redwater.md",
     "DM Prep/Session 5 - Lanlow Or Treefell Idk",
     "DM Prep/Session 4 - Redwater/Untitled",
     "Pasted image 20260520014128.png",
@@ -248,10 +256,8 @@
     "DM Prep/Session 3 - More",
     "Pasted image 20260519123317.png",
     "Files/Pasted image 20260412000906.png",
-    "Files/Images",
     "Files/Images/Pasted image 20260412000733.png",
     "Files/Images/Pasted image 20260411232323.png",
-    "Files/Images/Pasted image 20260411232320.png",
     "Untitled/Untitled.canvas"
   ]
 }

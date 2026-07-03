@@ -38,7 +38,7 @@ With Leo in cuffs, they go towards Redwater at night.
 				- Subject #19
 					- Convergence Potential: Medium
 			- ***The vials are to be used for experimentation regarding the Cult of Vex, for the beacon. (THEY DONT KNOW THIS)***
-
+w
 
 If they interact with Mirefield,
 - People are cowering for their food once they see the party.
@@ -66,7 +66,7 @@ If they somehow make it to Treefell;
 				- Uses Hidden Stem as a spell action.
 					- Spell is used to bind up to four creatures, 
 			- Mughal, Jac, and Walro are all imprisoned within The Citadel. 
-![[Pasted image 20260528135341.png]]
+![[Pasted image 20260703085415.png]]
 
 Abomination
 230/250
@@ -135,4 +135,3 @@ A merchant city.
 	- Merchants selling ships
 	- Shady dealers hiding onto larger ships
 - Within the town, 
-	- 
