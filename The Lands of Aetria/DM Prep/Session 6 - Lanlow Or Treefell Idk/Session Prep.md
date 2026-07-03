@@ -3,6 +3,7 @@ Ok lowkey I am a little lost on what I should prep for this lowkirkgenuinely
 General ideas in mind: 
 - Lanlow poison competing food stand quest
 - Treefell guards at the front
+- Treefell
 - They fight (maybe?)
 - If they get inside safely:
 	- Go find moorwin, leader of the Resistance
