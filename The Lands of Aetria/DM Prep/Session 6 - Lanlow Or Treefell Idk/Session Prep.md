@@ -49,3 +49,15 @@ a
 - Crocus
 
 ![[Pasted image 20260703090003.png]]![[a familiar friend, reimagined.monster]]
+
+Items to buy:
+Orctown
+- +1 to Strength checks for an hour, disadvantage to stealth.
+- Bonebreaker oil: One time bonus action, coat sword in a shimmering oil. Causes target to have disadvantage on their next attack. (40 gp)
+- Essence of Rage: Once per combat, drink to gain +1d4 on damage hits for three turns. 
+Dwarftown:
+- Dwarven ember bomb: Small explosive that deals 2d6 fire damage in a 10-ft radius. Can be shot to instead deal 4d6 in a 20 ft radius. Consumes whole turn.
+- Dwarven Shield: +1 AC, take 1d10 reduce damage as a reaction. (150 GP)
+Humantown: 
+- Courier Smoke Signal: Transmit a 10 word message to any creature within a city's radius. It must be someone you know, and someone who knows of this courier. 
+- Healing Draught: Heal 2d4+2 HP 
