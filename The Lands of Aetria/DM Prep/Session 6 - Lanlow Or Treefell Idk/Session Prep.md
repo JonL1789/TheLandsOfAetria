@@ -48,4 +48,4 @@ a
 - Shoulder hilt shattered and knocked unconscious
 - Crocus
 
-![[Pasted image 20260703090003.png]]
+![[Pasted image 20260703090003.png]]![[a familiar friend, reimagined.monster]]
