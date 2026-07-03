@@ -46,3 +46,5 @@ a
 **Jac:** 
 - Shoulder hilt shattered and knocked unconscious
 - Crocus
+
+![[Pasted image 20260703090003.png]]
