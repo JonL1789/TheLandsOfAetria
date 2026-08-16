@@ -49,15 +49,171 @@ a
 - Crocus
 
 ![[Pasted image 20260703090003.png]]![[a familiar friend, reimagined.monster]]
+Vorga, the Hand of Ardor of Ironhave
+Brohm, the Hand of Ardor of Wintervale
 
 Items to buy:
 Orctown
 - +1 to Strength checks for an hour, disadvantage to stealth.
 - Bonebreaker oil: One time bonus action, coat sword in a shimmering oil. Causes target to have disadvantage on their next attack. (40 gp)
-- Essence of Rage: Once per combat, drink to gain +1d4 on damage hits for three turns. 
-Dwarftown:
+- Essence of  Rage: Once per combat, drink to gain +1d4 on damage hits for three turns. 
+	Dwarftown:
 - Dwarven ember bomb: Small explosive that deals 2d6 fire damage in a 10-ft radius. Can be shot to instead deal 4d6 in a 20 ft radius. Consumes whole turn.
-- Dwarven Shield: +1 AC, take 1d10 reduce damage as a reaction. (150 GP)
+- Dwarven Shield of Everlasting Fortitude: +1 AC, take 1d10 reduce damage as a reaction. (80 GP)
 Humantown: 
 - Courier Smoke Signal: Transmit a 10 word message to any creature within a city's radius. It must be someone you know, and someone who knows of this courier. 
 - Healing Draught: Heal 2d4+2 HP 
+Elftown:
+
+WE ARE IN OCTOBER
+
+**Lesser Flagbearer (treefell):**
+_Medium humanoid, neutral evil_
+
+**Armor Class** 15 (natural armor)  
+**Hit Points** 110 (13d8 + 52)  
+**Speed** 30 ft.
+
+STR 10 (+0)  
+DEX 14 (+2)  
+CON 18 (+4)  
+INT 12 (+1)  
+WIS 18 (+4)  
+CHA 12 (+1)
+
+---
+
+### Saving Throws
+
+Con +7, Wis +7
+
+### Skills
+
+Nature +5, Perception +7, Survival +7
+
+### Damage Resistances
+
+necrotic, poison
+
+### Senses
+
+darkvision 60 ft., passive Perception 17
+
+### Languages
+
+Druidic, Common
+
+### Challenge
+
+CR 6 (2,300 XP)
+
+---
+
+## Traits
+
+### 🌱 Blighted Aura
+
+Enemies within 10 ft. take **5 necrotic damage at the start of their turn**.
+
+---
+
+### 🌿 Druidic Command
+
+Once per round, when a soldier within 30 ft. hits, it deals +4 necrotic damage.
+
+---
+
+### 🌿 Wild Shape: Corrupted Vine Form (1/day)
+
+Bonus action transformation for 2 rounds:
+
+- Gain +20 HP
+- Movement becomes 40 ft., climb 40 ft.
+- Melee attacks gain +2 damage and +5 ft reach
+
+---
+
+## Actions
+
+### 🌿 Thorn Staff
+
+_Melee Weapon Attack:_ +7 to hit, reach 5 ft.  
+Hit: **10 (1d8 + 6) bludgeoning + 7 (2d6) necrotic**
+
+---
+
+### 🌿 Grasping Roots (Recharge 5–6)
+
+15-ft radius, ground becomes difficult terrain  
+Each enemy must make **DC 15 STR save**
+
+- Fail: restrained (escape DC 15)
+- Success: half movement only
+
+---
+
+### 🌿 Corrupted Bloom (1/day)
+
+30-ft burst  
+Enemies make **DC 15 CON save**
+
+- Fail: 21 (6d6) necrotic + poisoned (1 round)
+- Success: half damage
+
+---
+
+## Bonus Action
+
+### 🌿 Command the Grove
+
+One soldier within 60 ft may move or attack immediately.
+
+**Cult of Vex Soldier**
+_Medium humanoid, neutral evil_
+
+**Armor Class** 13 (leather + barkskin)  
+**Hit Points** 45 (6d8 + 18)  
+**Speed** 30 ft.
+
+STR 12 (+1)  
+DEX 14 (+2)  
+CON 14 (+2)  
+INT 8 (-1)  
+WIS 14 (+2)  
+CHA 8 (-1)
+
+---
+
+### Skills
+
+Perception +4, Nature +1
+
+### Damage Resistances
+
+poison
+
+### Senses
+
+passive Perception 14
+
+### Languages
+
+Druidic
+
+### Challenge
+
+CR 1 (200 XP)
+
+---
+
+## Traits
+
+### 🌱 Rotting Resolve
+
+Advantage on saves against being frightened or charmed.
+
+---
+
+### 🌿 Thorned Body
+
+Melee attackers take **2 piercing damage** when they hit the soldier.
