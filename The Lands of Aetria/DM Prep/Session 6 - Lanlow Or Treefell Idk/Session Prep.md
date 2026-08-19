@@ -24,7 +24,7 @@ General ideas in mind:
 	- Meridia then thanks the group for leading such a precious target such as Four into their laboratory, before monologuing about how beautiful this all really is. 
 	- Meridia shall then walk over to Mei, before taking one syringe, and plunging it into her arm, as Mei cries out in agony
 	- Mei and Four shall meet their end here, and you both shall serve as the reason Aetria falls into darkness. THAT'S THE PERFECT ENDING, HAHA!!
-	- They fight woohoo
+	- Mei enters 
 
 Each character, where they're at:
 

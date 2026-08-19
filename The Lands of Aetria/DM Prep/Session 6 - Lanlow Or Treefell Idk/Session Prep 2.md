@@ -12,3 +12,5 @@ possible status effect: if the party says anything aside of one syllable words, 
 
 **ANOTHER HUGE IDEA:**
 **The Soulfire that touched the souls of everybody from the first beacon allows the entire party to have the power of the Lightbearer, and add a new game mechanic. wowza yes**
+
+FIGHT RYANNE IN WINTERVALE
