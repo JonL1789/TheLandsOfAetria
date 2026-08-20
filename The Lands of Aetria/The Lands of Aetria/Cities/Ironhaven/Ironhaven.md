@@ -7,6 +7,7 @@ My main idea for a final-area boss is a gargantuan lava snake hidden deep within
 
 One of the themes for this fight would be: ==*"Feral Amalgamation" by DM DOKURO
 
-Maybe second phase, we get 
+Maybe second phase, we get to: ==***"Unholy Insurgency"*** by DM DOKURO==
+- This could be led into from ==*"Unholy Ambush"* by DM DOKURO
 
 Maybe this volcano serpent attacks the city, then leaves? 

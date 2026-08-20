@@ -29,7 +29,7 @@ Before they reach the beacon, Brohm stands at the end, before the party faces hi
 
 FOR THE ENDING SEQUENCE:
 =
-Brohm falls to the ground, too injured from his wounds to keep himself standing. As the party slowly makes his way over to the Beacon in order to claim the second shard of light, Brohm pounds the ground with his weakened fist. The *[[Anima]]* he sought tod perfect in order to grant him unimaginable strength had ended up being the sole thing that killed him. His skin rotting, his soul deteriorating, before the light falls from his eyes, as he crumbles to dust and flies away in the bellowing wind that howls throughout the cliff's end. 
+Brohm falls to the ground, too injured from his wounds to keep himself standing. As the party slowly makes his way over to the Beacon in order to claim the second shard of light, Brohm pounds the ground with his weakened fist. The *[[Anima]]* he sought to perfect in order to grant him unimaginable strength had ended up being the sole thing that killed him. His skin rotting, his soul deteriorating, before the light falls from his eyes, as he crumbles to dust and flies away in the bellowing wind that howls throughout the cliff's end. 
 
 The party stands before the Beacon of Discovery, ==***(ADD FILLER DESCRIPTIVE DIALOGUE)***==. 
 
@@ -41,7 +41,7 @@ The party stands before the Beacon of Discovery, ==***(ADD FILLER DESCRIPTIVE DI
 
 "How has your search been, Eden? I'm sure you've certainly made your mark on this world."
 
-- The figure would tilt his head left to glisten his gaze at the open icy sea, and as his posture shifts over, you notice that he has the same mark of the ***Hub*** you've long been accustomed to.
+- The figure would turn his head left to glisten his gaze at the open icy sea, and as his posture shifts over, you notice that he has the same mark of the ***Hub*** you've long been accustomed to.
 - This figure, standing before you, is [[Ryanne, Eden's Father]] himself. 
 
 "Listen, kid, I know you've had your fun here in, what is this world called, ZX-518?" [[Ryanne, Eden's Father]] scoffs at the inconsequentiality of this realm.
@@ -55,3 +55,4 @@ After a moment, he would turn his gaze, locking his eyes.
 
 "I was hoping this wouldn't happen... my poor Eden. Promising as you were, not every tale holds a happy ending, I suppose."
 
+***RYANNE'S FIGHT THEME:*** ==***"Children of the City" by Mili
