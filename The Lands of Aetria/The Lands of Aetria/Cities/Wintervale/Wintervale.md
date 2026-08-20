@@ -3,7 +3,7 @@ Frozen over yet not lost, Winterfell stands within Aetria as a pillar of discove
 Wintervale, from my thoughts, is a very *"City of Tears"*-esque locale. The peak of the city lies within a
 
 ***OPENING SEQUENCE:***
-
+=
 (Intro Song: ==*Requiem for the Violent*==)
 
 **What to say:**
@@ -12,9 +12,23 @@ Wintervale, from my thoughts, is a very *"City of Tears"*-esque locale. The peak
 **If they look around:**
 - *"As you look around, the gothic-style buildings stand sharp with iron fixtures, with ice-blue brick roofs with spires that pierce the heavens. Billows of smoke from campfires plume through the air as you notice the activity from within the city's taverns, alongside the bustle of nearby shopkeeps' trading their goods. 
 
+Iblis Cafe: ==*"Rain Cafe"*==
+Iblis Cafe (Fast): ==*"Rain Cafe (Sped Up)"*==
+
+***"Iblis Cafe"***
+=
+*"You swing open the doors, and the calming serenity of the pitter-patter of the rain against the glass window encompasses the party as the freezing rain pelting your bodies slowly dissipates from the heat from the kitchen swarming around everybody. You hear the calming sound of a band playing soft, somber jazz-like music in the corner that slightly overcomes the chatter of the people speaking within."*
+
+"The Library for the Wicked"
+=
+*"The outside of this library portrays a somber picture, as there are several holes with light piercing inside o*
+
 Before they reach the beacon, Brohm stands at the end, before the party faces him. 
 
+***BROHM'S FIGHT THEME: =="Antarctic Reinforcement" by DM DOKURO
+
 FOR THE ENDING SEQUENCE:
+=
 Brohm falls to the ground, too injured from his wounds to keep himself standing. As the party slowly makes his way over to the Beacon in order to claim the second shard of light, Brohm pounds the ground with his weakened fist. The *[[Anima]]* he sought tod perfect in order to grant him unimaginable strength had ended up being the sole thing that killed him. His skin rotting, his soul deteriorating, before the light falls from his eyes, as he crumbles to dust and flies away in the bellowing wind that howls throughout the cliff's end. 
 
 The party stands before the Beacon of Discovery, ==***(ADD FILLER DESCRIPTIVE DIALOGUE)***==. 
