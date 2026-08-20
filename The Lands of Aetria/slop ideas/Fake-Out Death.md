@@ -1,0 +1,1 @@
+possibly transport at the start of a session to another realm, fighting an enemy
