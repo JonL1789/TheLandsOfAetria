@@ -21,9 +21,9 @@ Iblis Cafe (Fast): ==*"Rain Cafe (Sped Up)"*==
 
 "The Library for the Wicked"
 =
-*"The outside of this library portrays a somber picture, as there are several holes with light piercing inside o*
+*"The outside of this library portrays a somber picture, as there are several holes with light piercing inside ==(INSERT MORE HERE)==*
 
-Before they reach the beacon, Brohm stands at the end, before the party faces him. 
+
 
 ***BROHM'S FIGHT THEME: =="Antarctic Reinforcement" by DM DOKURO
 

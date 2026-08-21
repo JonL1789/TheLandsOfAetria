@@ -1,0 +1,1 @@
+*"The outside of this library portrays a somber picture, as there are several holes with light piercing inside the building. The doors seem to be barely hung by it's hinges, and the wood on the door itself is rotting. You can't envision anybody would have been here in the past few years, even  ==(INSERT MORE HERE)
