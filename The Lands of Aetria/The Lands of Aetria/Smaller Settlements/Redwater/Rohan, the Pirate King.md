@@ -21,4 +21,3 @@ Orc Leader of [[Redwater]]. Oversees all operations, and handles communications 
 "Don't you have people you'd kill to protect?!"
 
 
-![[Pasted image 20260411212659.png]]
