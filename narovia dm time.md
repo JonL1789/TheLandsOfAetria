@@ -1,0 +1,4 @@
+1 is 8/40 (PULVERIZED)
+2 is 15/40, against kane 
+3 is 40/40 (PULVERIZED)
+4 is 40/40 (PULVERIZED)

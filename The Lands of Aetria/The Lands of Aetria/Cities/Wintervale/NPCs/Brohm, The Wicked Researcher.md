@@ -1,0 +1,1 @@
+The fake-out boss before [[Ryanne, Eden's Father]] appears.

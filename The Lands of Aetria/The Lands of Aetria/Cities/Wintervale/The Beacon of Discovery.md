@@ -1,0 +1,1 @@
+The Beacon of Discovery lies dormant at the end of a mountain plateau of ice, a cliff overhanging the icy-sea waters 500 feet below. 
