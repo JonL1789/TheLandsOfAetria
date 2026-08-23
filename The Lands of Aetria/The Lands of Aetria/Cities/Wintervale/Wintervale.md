@@ -1,7 +1,11 @@
 Frozen over yet not lost, Winterfell stands within Aetria as a pillar of discovery for the land’s strange arcana altered by wicked shadow.
 
-Wintervale, from my thoughts, is a very *"City of Tears"*-esque locale. The peak of the city lies within a
+Wintervale, from my thoughts, is a very *"City of Tears"*-esque locale. The city is divided into two major sectors; *"The Wicked"*, and *"The Blessed."* There is a large disconnect between the people of the two sectors, as the border between is one that is hard to trespass. 
 
+The geography of Wintervale spans an 'Upward' hierarchy, with *"The Wicked"* being far below in elevation in contrast with *"The Blessed."*
+
+*"The Wicked"* THEME: ==*"City of Tears" by Christopher Larkin*==
+*"The Blessed"* THEME: ==*"Pale Court" by Christopher Larkin*==
 ***OPENING SEQUENCE:***
 =
 (Intro Song: ==*Requiem for the Violent*==)
@@ -24,11 +28,30 @@ Iblis Cafe (Fast): ==*"Rain Cafe (Sped Up)"*==
 *"The outside of this library portrays a somber picture, as there are several holes with light piercing inside ==(INSERT MORE HERE)==*
 
 
+The Night Market"
+= 
+*"You notice a few hooded figures swiftly dash over to a corner of the Wicked that you haven't seen many people walk towards. Walking inside,*
+
+THE NIGHT MARKET THEME: *=="Water Well" by Darren Korb*
+
 
 ***BROHM'S FIGHT THEME: =="Antarctic Reinforcement" by DM DOKURO
 
 FOR THE ENDING SEQUENCE:
 =
+
+- After receiving the blow, David would dash 30 feet back. Eyes dazed, he’d kneel over, and cough a seriously worrying amount of blood onto the ground. Legs shaking, body trembling from the wounds of combat, David bit by bit destabilizes himself. 
+
+	- *“No…This can’t be where I fall. You people come to MY city, expecting our people to kneel to your power. I am sorry, my friends, but this is not how our story ends. You’ll have to try a little harder to beckon our feet to the earth below where you stand.”
+
+- A certain sense of determination and perseverance flows from his body, as he’d be surrounded in the winds that howl within the arena. Flourishing his blade, David would take a deep breath, as the frigid winds surround his blade, shining a brilliant light-blue hue. David would then scream out, as he’d stab the glacier below with his blade, cutting off the cliff edge from the rest of the cliff. The group, David included, would find themselves descending down the cliff towards the icy depths below. 
+
+	- *“Hahaha…You people have shown your true colors, and I have no intention of seeing your vile hands grasp upon my city any longer. You will meet your end here with my blade upon your necks, as that today I serve as your judge, jury, and executioner. I bid you all adieu, mon ennemis.” 
+
+- David thrusts his rapier to the sky, pointing towards the rain clouds that pelt the earth. A crack of thunder bellows throughout the land, as a gargantuan blade of pure permafrost begins to manifest, before shortly dropping towards the party like a guillotine’s blade upon a criminal’s neck. Everybody roll a WIS save, and Eden with disadvantage.
+
+
+
 Brohm falls to the ground, too injured from his wounds to keep himself standing. As the party slowly makes his way over to the Beacon in order to claim the second shard of light, Brohm pounds the ground with his weakened fist. The *[[Anima]]* he sought to perfect in order to grant him unimaginable strength had ended up being the sole thing that killed him. His skin rotting, his soul deteriorating, before the light falls from his eyes, as he crumbles to dust and flies away in the bellowing wind that howls throughout the cliff's end. 
 
 The party stands before the Beacon of Discovery, ==***(ADD FILLER DESCRIPTIVE DIALOGUE)***==. 
