@@ -59,6 +59,7 @@ A pillar of light erupts from the beacon, as a shockwave that blasts everyone ba
 
 (I will ask how Four would like to emanate and bring out this power deep within you). 
 
+
 As you hear this, a sense of warmth and safety encompasses four, as a blade erupts behind [[Meridia, Master of Miasma]]. It is the dawn effigy of [[Mei]], who will then assist them in battle with a whole new set of moves. Likewise, [[Four, the Blood Hunter]] will receive her buffs and all that jazz
 
 *"As your dawn-coated claws dig and rend away at Meridia's miasmic flesh, you realize that the portions you carve away do not seem to regenerate. You will disable Meridia's ability to utilize his miasmic bullets permanently.*"

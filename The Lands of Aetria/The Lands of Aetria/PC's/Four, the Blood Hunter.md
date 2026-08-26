@@ -4,11 +4,20 @@ As a child, Four had a ritual performed upon them in order to transfuse their be
 
 
 
-Ballistophobia is now replaced with: Undying Will to Understand Oneself: Four may now exchange forms with Five at any time, (If performed in battle, can only be done once per turn.) While in the form of Four, gain the following effects:
+Ballistophobia and Hybrid Transformation - Incomplete Form are now replaced with: 
 
-- Unforgiving Mercy: _Passive_
-    
-    - You heal 10% (rounded up) outgoing damage as Temp HP on hit.
+Undying Will to Understand Oneself
+=
+Four may now exchange forms with Five at any time, (If performed in battle, can only be done once per turn.) While in the form of Four, gain the following abilities:
+
+- Unforgiving Mercy
+	- Cost: One Action, Once per Long Rest
+	- Brandish your blood-tinged greatsword, and plunge it into the ground below you. Utilizing the arcana within your unique hybrid blood, construct a way back into the fight when the darkness seems to cast away all hope. A gentle blood-red radiance emanates from your body, as you will cast away 3d10 of your Current HP. 
+	- For three turns, grant up to three allies in a 10 feet radius the follow buffs.
+		- **Sanguine Garden of Familial Love**
+		    - Against a single target, you heal 10% (rounded up) of outgoing attack damage as Temp HP on a damaging hit.
+		    - +2 to Hit, +2 to Damage
+		    - +1 AC
     
 
 While in the form of Five, gain the following effects:
