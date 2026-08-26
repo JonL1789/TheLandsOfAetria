@@ -8,7 +8,7 @@ Seeking [[Four, the Blood Hunter]] in order to utilize their unique hybrid blood
 			Those who fail have the Frightened condition, until they save the WIS save. This is the start of every turn. 
 *"I've had enough of you all! It was supposed to be MY FUN ADVENTURE looking for you, but you just HAD to go and spoil it, DIDN'T YOU! *
 	Meridia would then gaze over at four, as he would be plastered with a feral, drooling look towards her. 
-"HAHAHA, If you wanted to take it this far, then FINE! LETS JUST END THIS ALREADY! Try and survive this little trick I learned from the Flagbearer of the Old World themselves! It's a new one, and I only know a scant few who can peform it. See all of you in HELL!"
+"HAHAHA, If you wanted to take it this far, then FINE! LETS JUST END THIS ALREADY! Try and survive this little trick I learned from the Flagbearer of the Old World themselves! It's a new one, and I only know a scant few who can perform it. Thanks for watching the show, and I'll see all of you in HELL!"
 	From here, Meridia would close his eyes and mutter something ancient and unknown to the party, except you, Four. From your time surrounded by the Cult of Vex in your past life in Treefell, you would hear and comprehend fully what this phrase is. It would petrify your soul entirely. 
 "Imposition of Desolation: A World Purified in Darkness"
 =
