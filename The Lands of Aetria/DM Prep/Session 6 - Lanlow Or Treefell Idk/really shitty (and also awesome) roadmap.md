@@ -47,7 +47,67 @@
 		2) Meridia double dipping in the Cult of Vex alongside the Followers of the Abyss
 		3) A brief excerpt on the life of Enibras, who he was, and what he is now. (what he looks like)
 		4) Other lycan-human hybrids
-12) Maybe a few 
+12) Maybe a few fights within the Citadel with druid cultists
+13) They meet Meridia in an initial throne room, where they fight him.
+	1) He will send out corrupted Mei to fight them initially
+		1) Dialogue blah blah blah
+		2) Second phase, she is unable to speak apart from screams and yells
+	2) After Mei falls, Meridia will then stab a blade through her solar plexus, as she falls to the floor.
+		1) Before falling, she speaks to Four, saying, "I love you."
+	3) Meridia first phase woohoo!
+		1) They beat him up 
+	4) After this, he sends out four mirages of the bleeding lotus members.
+		1) Meridia is charging something while saying all of this
+	5) Once the four mirages are felled, then Meridia Phase 2 begins with his Imposition.
+14) Eventually into the fight, the Beacon calls out to Four during phase 2 when the fight seems dire.
+15) Beacon sequence!
+	1) Billowing smoke emanates from the beacon, as (hopefully) Four jumps in. 
+		1) Pause for a bit, focus on Four 
+	2) Tight void around Four's neck as she descends, in free-fall for about 15 secs
+	3) Feel something different as you come out of the narrow passage, as it opens up to a maw of void and a dark sea. 
+	4) Fall into a black sea, eventually surfacing. 
+	5) Faint glimmer in the distance, and you see the house with the family. 
+		1) This shows younger Meridia enacting a secret experiment, as she transfuses Four with a Lycan, but being chased off by men in blue robes before they could get a hold of her. 
+	6) The island falls, and eventually she finds herself back in the water sea.
+		1) Maybe she can stand on the water depths now?
+			1) If she reaches towards it, she feels another hand very identical to hers push right back against it.
+	7) Glimmer in the distance, and its the Guild Hall
+		1) Everybody drinking and laughing, and **alive**. 
+			1) However, everything disperses into vapor, as you see another vision. 
+				1) Talk about what happens in Price that Four does not see. 
+		2) Before moving on, the pain where you were once shot floods your body.
+	8) Last gimmer in the distance, its a bullet! :D
+		1) A piercing glimmer chases towards her, before sinking into her flesh. 
+			1) As the pain simmers down, another feeling erupts within her.
+				1) She feels an immense weight, as if her blood itself was dragging her down to the watery depths below. 
+	9) Orb of Mystery
+		1) ==Either ill add challenge dialogue with each of the bleeding lotus members here or i wont idk yet==
+			1) Inside the orb is Five, sitting at a table similar to the one found inside your old home.
+				1) monologue blah blah blah lets kill that guy
+			2) Five reaches out with a glimmering light in his palm, and they embrace.
+	10) They ascend, dividing the black sea, and shooting out of the beacon.
+16)  In the span of about 5 seconds, Four jumps in, and shoots back out, however with a beam of light protruding from the Beacon to boot.
+	1) Here, I will continue Meridia Phase 2, but I'll ask [[Four, the Blood Hunter]] what her form looks like.
+		1) Likewise, I will ask how she physically acts while she tries to bring out the light within herself. 
+	2) Mei will come back, although temporarily reanimated by the light. She will assist the party with the fight.
+		1) This is also where I will give [[Four, the Blood Hunter]] her unique new abilities
+17) After [[Meridia, Master of Miasma]] loses, enter ***ENIBRAS.***
+	1) He will look over to the beacon of light, as a nosebleed begins to form.
+		1) Reaching over to it with his gauntlets of pure shadow, he feels his armor begin to burn, before the liquid shadow glides along his armor to regenerate it.
+	2) "Good. Keep going. I want to see what your party can TRULY do."
+		1) As he looks over to Astaroth, he mutters:
+			1) "Oh? Never thought I'd see you here. Funny how life works."
+	3) If anybody attacks them, he will laugh dissipate in an effigy of shadow.
+		1) If nobody attacks them, he will just simply leave.
+18) After this, they (hopefully) go rescue the rest of the Bleeding Lotus locked in the room behind Meridia.
+	1) They will reconnect woohoo
+		1) They will all note on how Mei's golden form seems a bit shallow.
+19) Mei's new form will begin to crumble, as she will begin to grow dimmer, as the light that reanimated her form will slowly fade.
+	1) "Four, I know this won't be the last time we speak to eachother. I'm so proud of how strong you've become, I know you'll be able to work with your new family and stop him."
+		1) Before she finally fades,
+			1) "Until next time, my friend."
+20) There's a few things they can do, but for the most part, I envision the bleeding lotus helping with reparations of the City, and clearing out the remaining Cult of Vex now that Enibras and the Vex's grip has loosened on the city.
+21) As they tuck in for the night, I'll give them the little gift from the O.O.T.F as a reward for playing along with the image game. 
 
 
 BY THE WAY after they clear the beacon, FOUR dives in. Whole beacon sequence.
