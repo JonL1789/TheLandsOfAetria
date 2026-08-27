@@ -67,7 +67,7 @@
 	3) Feel something different as you come out of the narrow passage, as it opens up to a maw of void and a dark sea. 
 	4) Fall into a black sea, eventually surfacing. 
 	5) Faint glimmer in the distance, and you see the house with the family. 
-		1) This shows younger Meridia enacting a secret experiment, as she transfuses Four with a Lycan, but being chased off by men in blue robes before they could get a hold of her. 
+		1) This shows younger Meridia enacting a secret experiment, as she transfuses Four with a Lycan, but being chased off by men in **Red Robes** clothing before they could get a hold of her. 
 	6) The island falls, and eventually she finds herself back in the water sea.
 		1) Maybe she can stand on the water depths now?
 			1) If she reaches towards it, she feels another hand very identical to hers push right back against it.
@@ -92,13 +92,21 @@
 	2) Mei will come back, although temporarily reanimated by the light. She will assist the party with the fight.
 		1) This is also where I will give [[Four, the Blood Hunter]] her unique new abilities
 17) After [[Meridia, Master of Miasma]] loses, enter ***ENIBRAS.***
-	1) He will look over to the beacon of light, as a nosebleed begins to form.
+	1) As he enters, I need everyone to roll a DC 25 WIS save. (I will force everyone to fail unless they get a nat 20.)
+		1) A nauseating and pungent sense of hopeless overwhelms your body, as your brains scream at you to run. However, your legs buckle, as you remain paralyzed in fear. 
+	2) Meridia will beg at [[Enibras Tenebrum, the Beholder of Shadow]]'s feet from his failure.
+		1) Plunging his shadowy gauntlet through [[Meridia, Master of Miasma]]'s chest, he will grasp upon his Miasmic-tainted heart, and crush it. 
+			1) Meridia's miasma deteriorates and seeps into the floor, leaving a shallow, weakened, and hollow vessel remaining lifeless on the ground.
+	3) He will look over to the beacon of light, as a nosebleed begins to form.
 		1) Reaching over to it with his gauntlets of pure shadow, he feels his armor begin to burn, before the liquid shadow glides along his armor to regenerate it.
-	2) "Good. Keep going. I want to see what your party can TRULY do."
+	4) "Interesting..."
+		1) *Enibras would look over to the party.*
+	5) "Two remain. Show me what you can TRULY do."
 		1) As he looks over to Astaroth, he mutters:
-			1) "Oh? Never thought I'd see you here. Funny how life works."
-	3) If anybody attacks them, he will laugh dissipate in an effigy of shadow.
+			1) "How peculiar...never thought I'd see you here."
+	6) If anybody attacks them, he will laugh dissipate in an effigy of shadow.
 		1) If nobody attacks them, he will just simply leave.
+	7) Either way, he will raise his right hand, harnessing violet energy to radiate all around his fist, before a flash of darkness coats the party. 
 18) After this, they (hopefully) go rescue the rest of the Bleeding Lotus locked in the room behind Meridia.
 	1) They will reconnect woohoo
 		1) They will all note on how Mei's golden form seems a bit shallow.
@@ -106,7 +114,8 @@
 	1) "Four, I know this won't be the last time we speak to eachother. I'm so proud of how strong you've become, I know you'll be able to work with your new family and stop him."
 		1) Before she finally fades,
 			1) "Until next time, my friend."
-20) There's a few things they can do, but for the most part, I envision the bleeding lotus helping with reparations of the City, and clearing out the remaining Cult of Vex now that Enibras and the Vex's grip has loosened on the city.
+		2) Grant him and the rest of the party the "Light-Touched Ability", with [[Four, the Blood Hunter]] receiving her special Ancient Light, Reawakened ability.
+20) There's a few things they can do, but for the most part, I envision the bleeding lotus helping with reparations of the City, and clearing out the remaining Cult of Vex now that the Follower's and the Vex's grip has loosened on the city.
 21) As they tuck in for the night, I'll give them the little gift from the O.O.T.F as a reward for playing along with the image game. 
 
 

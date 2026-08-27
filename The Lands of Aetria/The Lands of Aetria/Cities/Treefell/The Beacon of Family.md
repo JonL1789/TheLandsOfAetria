@@ -4,6 +4,11 @@ This will grant [[Four, the Blood Hunter]] her unique homebrew buff, alongside g
 
 Touched by the Dawn's Light
 = 
+Immersed by the Dawn's Light
+=
+Attuned to the Dawn's Light
+=
+
 Paladin
 **Divine Retribution of The Dawn**
 - Single Use Ability (until further notice when future beacons are lit)

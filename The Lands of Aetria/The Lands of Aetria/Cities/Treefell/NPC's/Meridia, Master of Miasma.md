@@ -26,7 +26,7 @@ New Ability: ==**Protective Tar**==
 			- On a DC 15 DEX save, the attacker's weapon will be afflicted with **Life-Seeking Miasma.**
 		- Anytime this user attacks for their turn, they will take *1d6* Necrotic damage. Roll a DC 18 DEX save in order to cast away the miasma off of your weapon. 
 New Weakness: ==**A God's Wing, Manufactured**
-- After a few turns, [[Cherri]] will utilize *Hidden Root* to temporarily reduce Meridia's AC by 7, and he will be vulnerable to attacks.
+- After a few turns, [[Cherri]] will utilize *Hidden Root* to temporarily reduce Meridia's AC by 3, and he will be vulnerable to attacks.
 	- If *Meridia* is shot in the wings five times, his wings will temporarily be disabled, and fall to the floor. 
 		- If this happens, *Grasping Miasma* and *Protective Tar* will be temporarily disabled until Meridia's turn is over.
 

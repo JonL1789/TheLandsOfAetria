@@ -1,1 +1,1 @@
-Mage dude! Hes dead unfortunately
+Mage dude who uses glyphs! Hes dead unfortunately
