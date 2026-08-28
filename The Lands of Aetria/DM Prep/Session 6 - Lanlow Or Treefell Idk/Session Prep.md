@@ -45,10 +45,10 @@ Each character, where they're at:
 - Knocked unconscious by Kafka, imprisoned. 
 **Walro:**
 - Kicked into a building. then shot kafka with maelstrom
-- Hero typa guy
+- Hero typa guy. DEAD
 **Jac:** 
 - Shoulder hilt shattered and knocked unconscious
-- Crocus
+- Crocus but a woman
 
 ![[Pasted image 20260703090003.png]]![[a familiar friend, reimagined.monster]]
 Vorga, the Hand of Ardor of Ironhave

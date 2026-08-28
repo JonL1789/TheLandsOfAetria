@@ -40,4 +40,4 @@ Entry #3, *A Proposition*
 - Enibras does not know of Meridia's extensive work with the Cult of Vex, and asks *Meridia* to work under him, and serve as a **Hand of Ardor.** 
 	- Obviously, Meridia has to agree to live. 
 
-![[Pasted image 20260520014128.png]]
+![[meridia, master of miasma(1).png]]

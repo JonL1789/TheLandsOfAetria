@@ -11,14 +11,17 @@
             "id": "7c6fe15af23600ad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "The Lands of Aetria/Cities/Treefell/NPC's/Kafka, High Captain of Treefell.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Kafka, High Captain of Treefell"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -198,32 +201,34 @@
   },
   "active": "7c6fe15af23600ad",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "The Lands of Aetria/Cities/Wintervale/Points of Interest/Iblis Cafe.md",
     "The Lands of Aetria/Cities/Treefell/NPC's/Meridia, Master of Miasma.md",
+    "meridia, master of miasma(1).png",
     "The Lands of Aetria/Cities/Treefell/NPC's/Kafka, High Captain of Treefell.md",
-    "Pasted image 20260823000955.png",
-    "DM Prep/Session 6 - Lanlow Or Treefell Idk/Session Prep 2.md",
-    "The Lands of Aetria/PC's/Four, the Blood Hunter.md",
+    "The Lands of Aetria/Cities/Treefell/NPC's/The Bleeding Lotus/Cherri.md",
+    "The Lands of Aetria/Cities/Treefell/NPC's/The Bleeding Lotus/Walro.md",
+    "The Lands of Aetria/Cities/Treefell/NPC's/The Bleeding Lotus/Mughal.md",
+    "The Lands of Aetria/Cities/Treefell/NPC's/The Bleeding Lotus/Mei.md",
+    "The Lands of Aetria/Cities/Treefell/NPC's/The Bleeding Lotus/Jac (Cleric girl).md",
+    "DM Prep/Session 6 - Lanlow Or Treefell Idk/really shitty (and also awesome) roadmap.md",
     "DM Prep/Session 6 - Lanlow Or Treefell Idk/Session Prep.md",
+    "DM Prep/Session 6 - Lanlow Or Treefell Idk/Session Notes.md",
+    "DM Prep/Session 6 - Lanlow Or Treefell Idk/Session Prep 2.md",
+    "DM Prep/Session 6 - Lanlow Or Treefell Idk/Things to send the Players.md",
+    "The Lands of Aetria/Cities/Fort Mirth/Enibras Tenebrum, the Beholder of Shadow.md",
+    "The Lands of Aetria/Cities/Fort Mirth/Fort Mirth.md",
+    "The Lands of Aetria/Cities/Wintervale/NPCs/David Tranchaunte, Wintervale's Defining Edge.md",
+    "The Lands of Aetria/Cities/Wintervale/NPCs/Ryanne, Eden's Father.md",
+    "The Lands of Aetria/Cities/Wintervale/NPCs/Brohm, The Wicked Researcher.md",
+    "MISC/The Golden Dawn.md",
+    "Pasted image 20260823000955.png",
+    "The Lands of Aetria/PC's/Four, the Blood Hunter.md",
     "The Lands of Aetria/Cities/Treefell/NPC's/Moorwin.md",
     "The Lands of Aetria/Cities/Treefell/Treefell.md",
     "The Lands of Aetria/Cities/Treefell/The Beacon of Family.md",
     "slop ideas/Fake-Out Death.md",
     "MISC/Violet Rot.md",
-    "MISC/Anima.md",
-    "The Lands of Aetria/Cities/Wintervale/NPCs/David Tranchaunte, Wintervale's Defining Edge.md",
-    "The Lands of Aetria/Cities/Treefell/NPC's/The Bleeding Lotus/Mei.md",
-    "DM Prep/Session 6 - Lanlow Or Treefell Idk/Session Notes.md",
-    "The Lands of Aetria/Cities/Ironhaven/The Beacon of Progress.md",
-    "The Lands of Aetria/Cities/Ironhaven/Ironhaven.md",
-    "The Lands of Aetria/Cities/Fort Mirth/Fort Mirth.md",
-    "The Lands of Aetria/Cities/Fort Mirth/Enibras Tenebrum, the Beholder of Shadow.md",
-    "The Lands of Aetria/Other Characters/Followers of the Abyss.md",
-    "The Lands of Aetria/Other Characters/The Lightbearers.md",
-    "The Lands of Aetria/Other Characters/Judicar.md",
-    "The Lands of Aetria/Cities/Wintervale/Wintervale.md",
-    "The Lands of Aetria/Cities/Wintervale/Points of Interest/Library of the Wicked.md",
-    "The Lands of Aetria/Cities/Wintervale/Points of Interest/Iblis Cafe.md",
-    "The Lands of Aetria/Cities/Wintervale/Points of Interest/The Beacon of Discovery.md",
     "The Lands of Aetria/Cities/Wintervale/Points of Interest",
     "Untitled 1.canvas",
     "The Lands of Aetria/Smaller Settlements/Ironview Ridge",
@@ -242,8 +247,6 @@
     "Files/Pasted image 20260520014128.png",
     "Files/Pasted image 20260519183322.png",
     "Files/Pasted image 20260519183322 1.png",
-    "Files/Pasted image 20260519131622.png",
-    "Untitled.canvas",
     "a familiar friend, reimagined.monster",
     "Untitled/Untitled.canvas"
   ]
