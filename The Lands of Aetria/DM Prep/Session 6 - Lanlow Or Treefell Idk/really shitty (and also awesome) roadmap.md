@@ -118,6 +118,9 @@
 20) There's a few things they can do, but for the most part, I envision the bleeding lotus helping with reparations of the City, and clearing out the remaining Cult of Vex now that the Follower's and the Vex's grip has loosened on the city.
 21) As they tuck in for the night, I'll give them the little gift from the O.O.T.F as a reward for playing along with the image game. 
 
+Eden and Astaroth will be given the Fragment of Light item, allowing them to transfuse this light into their bodies, allowing them to take another full turn. 
+
+*However, Lazarus will be bestowed a Golden Trigger, which seems to be part of a bigger whole.*
 
 BY THE WAY after they clear the beacon, FOUR dives in. Whole beacon sequence.
 i want to add that each member fo the Bleeding Lotus will test Four from a specific part each of them taught her. 

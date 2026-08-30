@@ -5,3 +5,7 @@ Argues with Walro often.
 
 not much other than that, shes a victim of war, and does not talk to much. 
 mostly supports and thats it
+
+
+![[a mirage of a life-giving friend.monster]]
+![[Pasted image 20260829180443.png]]

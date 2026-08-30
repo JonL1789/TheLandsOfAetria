@@ -10,4 +10,7 @@ Tree enveloping the group to protect from projectiles
 
 ![[cherri, the last petal.monster]]
 Baseline stat block, will adjust maybe
+
+
+This statblock will be the same as the Mirage's
 ![[Pasted image 20260826232119.png]]

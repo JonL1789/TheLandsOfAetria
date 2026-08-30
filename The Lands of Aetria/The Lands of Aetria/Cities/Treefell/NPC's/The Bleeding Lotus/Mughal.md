@@ -4,6 +4,4 @@ Wife named Lilith
 1) Wields a grandhammer, slams it into people
 2) Can unsheathe it to reveal a much more agile hammer
 
-
-![[a mirage of a hammer wielding friend.monster]]
-![[Pasted image 20260829173545.png]]
+![[Pasted image 20260829175410.png]]![[a mirage of a hammer wielding friend(1).monster]]
