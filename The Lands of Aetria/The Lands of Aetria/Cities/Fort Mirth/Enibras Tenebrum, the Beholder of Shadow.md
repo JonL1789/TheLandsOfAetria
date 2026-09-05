@@ -2,6 +2,8 @@ Morphed and corrupted beyond human comprehension, [[Enibras Tenebrum, the Behold
 
 Possible limb paralysis, dex save or they're legs are bound by chains. A floor of shadow, binding them with dark chains?
 
+***(For late-term things, I want to )
+
 ==**Shadowfire**==
 - A unique damage type bestowed upon [[Enibras Tenebrum, the Beholder of Shadow|Enibras Tenebrum|]]'s attacks. 
 	- *"This feeling, it's like his attacks pierce my very armor and cut away at my soul itself. It's as if the void is calling out my name before I make the plunge into its bottomless depths... I truly cannot define such a feeling in words alone. This evil cannot be allowed to live any longer; he must be expunged from this realm.*" - Judicar, the Archmage of Aetria

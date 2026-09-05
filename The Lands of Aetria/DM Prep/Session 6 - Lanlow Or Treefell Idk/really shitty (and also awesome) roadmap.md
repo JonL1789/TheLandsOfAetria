@@ -122,8 +122,8 @@ Eden and Astaroth will be given the Fragment of Light item, allowing them to tra
 
 *However, Lazarus will be bestowed a Golden Trigger, which seems to be part of a bigger whole.*
 
-BY THE WAY after they clear the beacon, FOUR dives in. Whole beacon sequence.
-i want to add that each member fo the Bleeding Lotus will test Four from a specific part each of them taught her. 
+(BY THE WAY after they clear the beacon, FOUR dives in. Whole beacon sequence.
+i want to add that each member fo the Bleeding Lotus will test Four from a specific part each of them taught her. )
 
 At the end, [[Four, the Blood Hunter]] will meet a mirage of ***Five***, and briefly talk to eachother. After discussing and revealing this info to *Four*, Five will reach their hand out, with a glowing energy surrounding their palm. They will clasp hands, and they will together in a hug, and (then go into the glowing light ascending scene). 
 
