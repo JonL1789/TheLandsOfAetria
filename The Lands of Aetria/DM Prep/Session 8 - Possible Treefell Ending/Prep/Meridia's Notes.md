@@ -13,4 +13,5 @@ Although, that does get me thinking... what variables can I change right now, I 
 
 Oh well... it seems like another 'volunteer' was just selected up for our "weekly research contest." Maybe the next hybrid will do it...
 
+16:XX 
 Damn it all. If only I had my hands on *her*... this would be SO much easier. I wouldn't give a damn about this stupid beacon, I'd be able to construct **HL-712** just like the Cult ordered me to. To hell with it all... where the hell is she?!~"

@@ -8,7 +8,7 @@ An effigy of [[The Beacon of Family]].
 The Shadow Entity of Family
 - The shadow that drips all around you now coalesced into an entity that guards the Dawnlight hidden within. The only thing standing between you and self realization is a test of strength; show your will, or die like the rest who tried before you.
 - 16 AC, 75 HP
-- Attacks:
+- Attacks
   - Mughal’s Hammer
     - “Mughal’s strength kept the Lotus safe, and yet your strength was meaningless in return. He loved Mei, and you let her die.”
     - (+9) to hit, 10 ft., single target.
@@ -30,4 +30,5 @@ The Shadow Entity of Family
 - Mei's Guandao
       - "Mei's benevolence brought the Lotus together. She looked after you, and maybe even loved you; yet the face she loved was a shallow facade of strength. You loved her, and you let her die."
         - (+10) to hit, 10 feet., single target.
-        - Slash with a bloodied guandao, dealing 15 (2d10+5) slashing damage.
+        - Slash with a bloodied guandao, dealing 15 (2d10+5) slashing damage. 
+	        - Four cannot use her Blood Infusion abilities.

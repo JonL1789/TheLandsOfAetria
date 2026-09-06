@@ -30,3 +30,6 @@
 	2) mei's golden glow fades, as she falls unconscious
 9) **Room 8:** Post fight, enter Malina with Guards (question mark?)
 	1) whole lotus fights malina with the guards
+
+
+at the end of it all, give all four players the **Dawnbringer Action** ([[The Beacon of Family]])

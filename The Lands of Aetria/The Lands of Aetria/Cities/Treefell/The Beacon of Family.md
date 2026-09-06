@@ -13,12 +13,13 @@ However, it does not seem to be that this power is evil. Infact, it may be one o
 - One ***Dawnbringer*** action. 
 	- Embolden your body with the Dawn's Light, and manifest a power unlike any you've ever been in contact with. Bring forth the power of Hope, and use it to guide your will forward.
 		- How this power physically manifests is up to the user.
-			- Declare this action used, and manifest a Guaranteed **Critical Hit** on your next attack.
+			- Anytime during your turn, enchant your weapon's next attack with the power of **Soulfire.**
 
 ==**Dawnbringer Action**
 - One Slot...?
 	- *Rekindling the Dawn*
-		- Recollect portions of the Dawn in times of Criticality while in dire situations.
+		- Replenish Condition: ???
+		- Secondary Replenish Condition: Recollect portions of the Dawn in times of Criticality while in dire situations.
 - An action of ancient power lies within.
 
 (Recollect portions of the Dawn in times of Criticality while in dire situations.)
