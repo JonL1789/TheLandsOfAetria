@@ -2,6 +2,9 @@
 1) sneak onto carriage with materials
 	1) what they can find from these materials are:
 	2) list shit
+		1) 2 White potions (Intimal)
+		2) 3 Green Potions (Enlargo)
+		3) 1 Brick of unknown material
 2) **Room 1:** Get inside unloading room
 3) **Room 2:** Lobby
 	1) everybody sees stairs heading upwards into the first room.

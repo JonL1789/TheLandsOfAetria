@@ -33,6 +33,12 @@ Price: 40g
 Outgoing to-hit rolls are reduced by -2.
 Unique Effect: ???
 
+'The Cursed Glasses of Sight'
+Price: 120g
+Sight is reduced to 10ft in a radius
+Unique Effect: ???
+
+Attunement Set Bonus: Attunement rate is increased by 33%.
 
 *(Frailness: Deal a total of 200 damage for this item to awaken.)*
 *(Fragility: Take a total of 175 damage for this item to awaken.)*
