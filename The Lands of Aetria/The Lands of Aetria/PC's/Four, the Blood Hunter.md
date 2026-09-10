@@ -28,9 +28,9 @@ While in the form of Five, gain the following effects:
 	- Cost: One Action, Once per Long Rest
 	- Brandish your fighting spirit, and yell obscenities towards an enemy able to interpret language while in the form of Five. Stroke your ego, and beguile an enemy to test their strength against yours.
 		- *"Let me at em'!"*
-			- Within 30 ft. of a target, force the victim to make up to ***Five*** STR check contests, best three out of five. **(!! These are not affected by Advantage. !!)**
+			- Within 30 ft. of a target, force the victim to make up to ***Five*** STR check contests, best three out of five. **(!! These are not affected by Advantage, and are only your Modifier. !!)**
 				- If the victim is not within 5 Ft., the victim must make a DC 18 WIS save or be compelled to walk towards Five with all remaining movement speed.
-			- If Five wins the competition, for a turn, Five will take FULL aggro from an enemy for one turn. Take 1d10 less damage from incoming attacks from the victim due to the victim's shame.
+			- If Five wins the competition, for a turn, Five will take FULL aggro from an enemy for one turn. Take 1d10 less damage from incoming attacks from the victim due to their shame.
 				- If Five loses the competition, Five will receive aggro for a single hit from that enemy. He will take 1d12 extra damage from this hit due to Five's shame.
 
 (The specific triggers to swap forms still exist, however, 4+5 will have the mental resilience in order to resist if they choose to do so.)
