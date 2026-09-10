@@ -1,1 +1,1 @@
-The fake-out boss before [[Ryanne, Eden's Father]] appears.
+The fake-out boss before [[Ryanne, Eden's Mother Figure]] appears.

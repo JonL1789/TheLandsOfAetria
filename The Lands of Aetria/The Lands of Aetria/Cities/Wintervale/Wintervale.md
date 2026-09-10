@@ -68,9 +68,9 @@ The party stands before the Beacon of Discovery, ==***(ADD FILLER DESCRIPTIVE DI
 "How has your search been, Eden? I'm sure you've certainly made your mark on this world."
 
 - The figure would turn his head left to glisten his gaze at the open icy sea, and as his posture shifts over, you notice that he has the same mark of the ***Hub*** you've long been accustomed to.
-- This figure, standing before you, is [[Ryanne, Eden's Father]] himself. 
+- This figure, standing before you, is [[Ryanne, Eden's Mother Figure]] himself. 
 
-"Listen, kid, I know you've had your fun here in, what is this world called, ZX-518?" [[Ryanne, Eden's Father]] scoffs at the inconsequentiality of this realm.
+"Listen, kid, I know you've had your fun here in, what is this world called, ZX-518?" [[Ryanne, Eden's Mother Figure]] scoffs at the inconsequentiality of this realm.
 "I've heard the local creatures call this realm Aetria as I was dialing in the coordinates to here. Whatever it may be, it doesn't deserve our time. These people are nothing compared to what I need from you, Eden."
 
 After a moment, he would turn his gaze, locking his eyes.
