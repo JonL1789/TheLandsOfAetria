@@ -1,0 +1,4 @@
+For the [[The Beacon of Family]] sequence, maybe [[Four, the Blood Hunter]] is given the opportunity to remain within the *Beacon* forever, and let *(FIVE)* take over **permanently.** 
+- In this case, Five would become the permanent character, and [[Four, the Blood Hunter]] would remain in the [[Realm Of Void]] forever with her memories of living with the *Bleeding Lotus.*
+However, if she refuses, then *(FIVE*) would hold out their hand, imbued with the shining light of [[The Golden Dawn]]. He would then ask [[Four, the Blood Hunter]] if you truly want to bring justice to Meridia for the death of [[Mei]], alongside the rest of his crimes.
+- In this case, [[Four, the Blood Hunter]] and *(FIVE)* would conjoin together, bringing forth a new form to Pio's PC. 

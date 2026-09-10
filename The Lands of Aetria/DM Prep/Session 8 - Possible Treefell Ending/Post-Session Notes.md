@@ -15,12 +15,12 @@
 				- Linga rolled like 3 nat 20's against [[Eden, the Artificer]] LOL
 			- The guards took him and Linga away to the Laboratory.
 - Raiding Citadel
-	- The group followed the guards taking Eden into the Citadel, and found Cherri on their way. 
-		- They are blessed with [[Moorwin]]'s Blessing, granting them telepathy between eachother and invisibility. Likewise, they know the location of everyone else that took the tincture. 
+	- The group followed the guards taking [[Eden, the Artificer]] into the Citadel, and found [[Cherri]] on their way. 
+		- They are buffed with [[Moorwin]]'s Blessing, granting them telepathy between each other and invisibility. Likewise, they know the location of everyone else that took the tincture. (last thing i added mid session)
 		- They met [[Malina, The High Mage of Treefell]] briefly. The group followed into the big doors of the Citadel.
 	- Rooms:
 		- Lobby
-			- Malina went into her quarters. 
+			- [[Malina, The High Mage of Treefell]] went into her quarters. 
 			- [[Astaroth, the Paladin]] rolled a Nat 20.
 				- Inspected the Blue Light (without warmth), and was able to put it back.
 			- The group followed the guards into the next room.
@@ -30,22 +30,22 @@
 			- [[Four, the Blood Hunter]] *(FIVE)* asked [[Cherri]] about the library, but she just said it has forbidden text that cannot escape the citadel's grasp. 
 			- They move on to the next room.
 		- Laboratory
-			- Entering the room, the Guard throws Eden and Ingol into one of the rooms. 
-				- Eden, at one hp, is in a room with Ingol on the floor.
-			- Five feels a familial connection to his family from the vials and where he is.
+			- Entering the room, the Guard throws [[Eden, the Artificer]] and Ingol into one of the rooms. 
+				- [[Eden, the Artificer]], at one hp, is in a room with Ingol on the floor.
+			- [[Four, the Blood Hunter]] *(FIVE)* feels a familial connection to his family from the vials and where he is.
 			- The rest of the group follows inside.
-				- Inside the room, Five sees the body lying on the bed, and is forced to make a wis save. 
+				- Inside the room, *(FIVE)* sees the body lying on the bed, and is forced to make a wis save. 
 					- He succeeds, and is allowed to *"give up control"*. 
-						- Before this, Five saw visions of the lycan family. 
+						- Before this, *(FIVE)* saw visions of the lycan family. 
 					- Pio agrees, and swaps to [[Four, the Blood Hunter]]'s form. 
 				- [[Eden, the Artificer]] cuts off the head of Ingol.
-			- Four finds the person on the bed, and sees the visions of her family.
+			- [[Four, the Blood Hunter]] finds the person on the bed, and sees the visions of her family.
 				- The person on this bed is [[Four, the Blood Hunter]]'s sibling.
 			- Four cannot recollect the name of her. 
 			- [[Astaroth, the Paladin]] blesses the body with his holy light.
 				- Only the Arm flails, and the blood in her body slowly seeps upwards.
 			- [[Astaroth, the Paladin]] continues, and the sister flails to life, and grasps [[Astaroth, the Paladin]]'s neck with their arms.
-				- On a NAT 20, they take the arms off of [[Astaroth, the Paladin]] from the sibling.
+				- On a NAT 20, they take the arms off of [[Astaroth, the Paladin]] from the sibling. 
 			- The sibling screeches out and gives everyone Frightened. 
 			- The rest of the amalgamates rise, and they fight.
 				- Eden cuts down the Sibling with THREE NAT TWENTIES In a row.
@@ -68,6 +68,8 @@
 				- Meridia says "I dont have to do any work! The Family will kill eachother, HAHAHA!"
 					- [[Mei]] talks briefly, and then rushes at [[Four, the Blood Hunter]].
 						- "My name is Mei, and I am the High Vine of Treefell. You stand as an enemy of Treefell, and for this, you must be suppressed."
+					- Four speaks;
+						- "Do you even remember me? Do you even remember the *Bleeding Lotus?*"
 - End Session!
 
 
