@@ -15,7 +15,7 @@ However, it does not seem to be that this power is evil. Infact, it may be one o
 - One ***Dawnbringer*** action. 
 	- Embolden your body with the Dawn's Light, and manifest a foreign power within yourself. Bring forth a power unknown to you, and use it to guide your will forward.
 		- How this power physically manifests is up to the user.
-			- Take another full turn after your turn ends, and heal 25% of your Max HP.
+			- Imbue your next attack with **SoulFire** damage.
 
 **Dawnbringer Action**
 - One Time Use...?

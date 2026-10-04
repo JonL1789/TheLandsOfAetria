@@ -1,1 +1,1 @@
-One of the three player characters. Sent by [[Ryanne, Eden's Mother]] to retrieve an object of great importance that encompasses the land's purpose and meaning. 
+One of the three player characters. Sent by [[Ryanne, Eden's Mother Figure]] to retrieve an object of great importance that encompasses the land's purpose and meaning. 

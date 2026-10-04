@@ -16,23 +16,29 @@ a lot going on here, storing the vital stuff here.
 `The Cursed Amulet of Frailness: 
 Price: 30g
 Outgoing attacks do 1d8 less damage. 
-Special Effect: ???
+Unique Effect: ???
 
 `The Cursed Ring of Fragility:
 Price: 25g
 Incoming attack damage is increased by 1d6.
-Special Effect: ???
+Unique Effect: ???
 
 `The Cursed Boots of Leisurely Walking:
 Price: 20g
 Your movement speed is reduced to 15ft.
-Special Effect: ???
+Unique Effect: ???
 
 `The Cursed Earrings of Unreliability:
 Price: 40g
 Outgoing to-hit rolls are reduced by -2.
-Special Effect: ???
+Unique Effect: ???
 
+'The Cursed Glasses of Sight'
+Price: 120g
+Sight is reduced to 10ft in a radius
+Unique Effect: ???
+
+Attunement Set Bonus: Attunement rate is increased by 33%.
 
 *(Frailness: Deal a total of 200 damage for this item to awaken.)*
 *(Fragility: Take a total of 175 damage for this item to awaken.)*
