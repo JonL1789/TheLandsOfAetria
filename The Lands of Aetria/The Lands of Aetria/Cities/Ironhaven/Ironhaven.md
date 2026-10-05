@@ -5,6 +5,8 @@ Main Battle Theme: ==CORE by Toby Fox
 
 My main idea for a final-area boss is a gargantuan lava snake hidden deep within the fires of Ironhaven's volcano, "???". (insert name lol)
 
+^^ To add onto this, maybe theres a surface-version of Ironhaven, and theres a variant within the depths of the Volcano. Possibly theres a 
+
 One of the themes for this fight would be: ==*"Feral Amalgamation" by DM DOKURO
 
 Maybe second phase, we get to: ==***"Unholy Insurgency"*** by DM DOKURO==

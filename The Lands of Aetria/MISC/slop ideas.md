@@ -1,0 +1,1 @@
+https://www.reddit.com/r/DnDBehindTheScreen/comments/jmomml/a_list_of_cool_homebrew_enchantments/
