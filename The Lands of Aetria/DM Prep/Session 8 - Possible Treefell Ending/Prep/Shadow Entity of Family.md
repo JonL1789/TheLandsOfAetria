@@ -8,6 +8,7 @@ An effigy of [[The Beacon of Family]].
 The Shadow Entity of Family
 - The shadow that drips all around you now coalesced into an entity that guards the Dawnlight hidden within. The only thing standing between you and self realization is a test of strength; show your will, or die like the rest who tried before you.
 - 16 AC, 75 HP
+- 
 - Attacks
   - Mughal’s Hammer
     - “Mughal’s strength kept the Lotus safe, and yet your strength was meaningless in return. He loved Mei, and you let her die.”

@@ -6,8 +6,49 @@ One of the two gunslingers of the party. Tiefling, looks out for himself and occ
 Received the **Icebrand of a High Captain**, and has modified it into a gunblade. 
 
 
+`The Cursed Amulet of Frailness: 
+Price: 30g
+Outgoing attacks do 1d8 less damage. 
+Unique Effect: ???
+
+(NOW HELD BY EDEN)
+(..NOW DESTROYED BY EDEN VIA TRANSMUTATION.)
+
+`The Cursed Ring of Fragility:
+Price: 25g
+Incoming attack damage is increased by 1d6.
+Unique Effect: ???
+
+`The Cursed Boots of Leisurely Walking:
+Price: 20g
+Your movement speed is reduced to 15ft.
+Unique Effect: ???
+
+`The Cursed Earrings of Unreliability:
+Price: 40g
+Outgoing to-hit rolls are reduced by -2.
+Unique Effect: ???
+
+(NOW HELD BY EDEN)
+(..NOW DESTROYED BY EDEN VIA TRANSMUTATION.)
+
+'The Cursed Glasses of Sight'
+Price: 120g
+Sight is reduced to 10ft in a radius
+Unique Effect: ???
+
+(NOW HELD BY EDEN)
+(..NOW DESTROYED BY EDEN VIA TRANSMUTATION.)
 
 
+*(Frailness: Deal a total of 200 damage for this item to awaken.)*
+	- (20)
+*(Fragility: Take a total of 175 damage for this item to awaken.)*
+*(Leisurely Movement: Walk 150 movement speed in combat for this item to awaken.)*
+(40 FT)
+*(Unreliability: Attack 20 times in combat for this item to awaken.)* 
+- (7)
+(Glasses of Undaunting Foresight)
 
 
 

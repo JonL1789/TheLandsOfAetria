@@ -6,4 +6,12 @@ She will fight the party after injected with [[Anima]].
 
 "My name is Mei, and as the Royal Leaf of Treefell, I shall cut you trespassers down."
 
+101/115
+
+15 four
+nat 20 eden
+laz 17
+astaroth 14
+
+
 ![[Pasted image 20260906172520.png]]

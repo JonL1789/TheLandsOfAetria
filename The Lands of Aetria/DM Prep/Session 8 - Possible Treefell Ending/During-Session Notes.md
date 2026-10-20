@@ -13,3 +13,5 @@ Five: Bitch
 Eden learns *"The Auraful Whirlpool*.
 - Concentration spell.
 	- Eden makes Astaroth auraful, and gives him advantage to charisma checks. 
+
+

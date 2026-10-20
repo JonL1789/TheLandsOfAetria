@@ -1,1 +1,0 @@
-Read [[Four, the Blood Hunter]].
