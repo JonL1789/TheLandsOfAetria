@@ -1,6 +1,6 @@
 Frozen over yet not lost, Winterfell stands within Aetria as a pillar of discovery for the land’s strange arcana altered by wicked shadow.
 
-Wintervale, from my thoughts, is a very *"City of Tears"*-esque locale. The city is divided into two major sectors; *"The Wicked"*, and *"The Blessed."* There is a large disconnect between the people of the two sectors, as the border between is one that is hard to trespass. 
+Wintervale, from my thoughts, is a very *"City of Tears"*-esque locale for the intelligent side of the city, and *"Water Well"* for the other. The city is divided into two major sectors; [[The Wicked - Info]], and [[The Blessed - Info]] There is a large disconnect between the people of the two sectors, as the border between is one that is hard to trespass. More on this on each of the info pages.
 
 The geography of Wintervale spans an 'Upward' hierarchy, with *"The Wicked"* being far below in elevation in contrast with *"The Blessed."*
 
