@@ -4,8 +4,14 @@ Wintervale, from my thoughts, is a very *"City of Tears"*-esque locale for the i
 
 The geography of Wintervale spans an 'Upward' hierarchy, with *"The Wicked"* being far below in elevation in contrast with *"The Blessed."*
 
-*"The Wicked"* THEME: ==*"City of Tears" by Christopher Larkin*==
-*"The Blessed"* THEME: ==*"Pale Court" by Christopher Larkin*==
+Maybe the Royal Palace utilizes citizens of [[The Blessed - Info]] (Could also be from [[The Wicked - Info]] too) to make them into *Anima*? (LEAD INTO BROHM)
+
+[[Ryanne, Eden's Mother]] uses *Wintervale* in order to extract [[Anima]] for her own usage, while in return, [[Ryanne, Eden's Mother]] gives unique artifacts that separates their intellectual progress in contrast with the rest of the world.
+
+*The* *Royal* *Palace* **THEME**: ==🟢 *"Surpassing Authority"* by Jeff Ball
+
+*"The Wicked"* **THEME:** ==🔵"City of Tears" by Christopher Larkin*==
+*"The Blessed"* **THEME**: ==🔵*"Pale Court" by Christopher Larkin*==
 ***OPENING SEQUENCE:***
 =
 (Intro Song: ==*Requiem for the Violent*==)
