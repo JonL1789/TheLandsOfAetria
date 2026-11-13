@@ -3,3 +3,15 @@ For the [[The Beacon of Family]] sequence, [[Four, the Blood Hunter]] is given t
 However, if she doesn't choose to stay, *(FIVE*) would hold out their hand, imbued with the shining light of [[The Golden Dawn]]. He would then ask [[Four, the Blood Hunter]] if you truly want to bring justice to Meridia for the death of [[Mei]], alongside the rest of his crimes.
 - In this case, [[Four, the Blood Hunter]] and *(FIVE)* would conjoin together, bringing forth a new form to Pio's PC. (PROBABLY NINE)
 	- Four and Five will both be able to freely communicate between each other, and they are able to change their forms at any time. 
+
+
+
+start with the fight with the new lotus
+after every full turn, then we'll go to the beacons equence.
+thoughts:
+- fight
+- beacon 2
+- fight end, start [[Meridia, Master of Miasma]]
+- beacon 3
+- 
+- 

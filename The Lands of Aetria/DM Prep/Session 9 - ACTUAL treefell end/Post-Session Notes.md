@@ -1,3 +1,13 @@
+<<<<<<< HEAD
+i didnt take post session notes, so here i am like three weeks later trying to remember what happened:
+- Fight with Mei
+	- I literally put the lights there for fun, and they made it a game mechanic so i just played along with it
+		- I made it so as they broke the lights, it would hurt Mei as well
+		- Lazarus collaborated with [[Four, the Blood Hunter]] in order to attack the lights with
+- Fight with Meridia (Phase 1)
+- Bleeding Lotus Rematch
+- Beacon
+=======
 THIS SESSION WENT GREAT!
 I honestly think not much could be improved upon what I did today, (apart from the [[Shadow Entity of Family]] encounter).
 
@@ -56,3 +66,4 @@ Overall, this is what happened:
 **DUDE IM SO HAPPY I MADE THAT EXPLOSION SCENE HAPPEN, I REALLY ENJOYED IT (and i hope the others did too.)**
 Now all thats left is an epilogue with Treefell, (possible rebuilding and reforging of it's leadership?)
 - I can also throw in a few side quests if they wish to fuck around a bit since they've JUST been doing main story combat
+>>>>>>> origin/main

@@ -13,4 +13,8 @@ Baseline stat block, will adjust maybe
 
 
 This statblock will be the same as the Mirage's
+
+
+62/95
+Cherri prepared action
 ![[Pasted image 20260826232119 1.png]]
